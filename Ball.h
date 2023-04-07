@@ -4,14 +4,9 @@ class FBall
 public:
 	int Number;
 
-	FBall()
-	{
-	}
+	FBall();
 
-	FBall(int BallNumber)
-	{
-	}
-
+	FBall(int BallNumber);
 
 };
 
